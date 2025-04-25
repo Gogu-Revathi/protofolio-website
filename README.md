@@ -23,8 +23,6 @@ It was developed as part of an internship task submission to demonstrate my abil
 
 --Epileptic Seizure Prediction
 
---Financial Literacy Portal
-
 --Online Job Portal using AI
 
 -Contact Form: Visitors can send messages through an email-style form.
