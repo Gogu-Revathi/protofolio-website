@@ -4,46 +4,44 @@ This project is a personal portfolio website designed to serve as an online resu
 It was developed as part of an internship task submission to demonstrate my ability to build functional and user-friendly web applications.
 
 🎯 Objectives
-Provide a centralized platform to highlight my academic and technical background.
+-Provide a centralized platform to highlight my academic and technical background.
 
-Share key projects and achievements with potential employers or collaborators.
+-Share key projects and achievements with potential employers or collaborators.
 
-Include interactive features like a contact form and live project links.
+-Include interactive features like a contact form and live project links.
 
-Practice clean HTML/CSS/JS code with responsive design principles.
+-Practice clean HTML/CSS/JS code with responsive design principles.
 
 ✨ Features
-About Section: A brief introduction including background, internship experience, and interests.
+-About Section: A brief introduction including background, internship experience, and interests.
 
-Skills Section: Lists both technical skills (languages, tools) and soft skills (communication, teamwork).
+-Skills Section: Lists both technical skills (languages, tools) and soft skills (communication, teamwork).
 
-Projects Section: Showcases top projects including:
+-Projects Section: Showcases top projects including:
 
-Sign Language Recognition using Machine Learning
+--Sign Language Recognition using Machine Learning
 
-Epileptic Seizure Prediction
+--Epileptic Seizure Prediction
 
-Financial Literacy Portal
+--Financial Literacy Portal
 
-Online Job Portal using AI
+--Online Job Portal using AI
 
-Contact Form: Visitors can send messages through an email-style form.
+-Contact Form: Visitors can send messages through an email-style form.
 
-Responsive Design: Fully optimized for desktops, tablets, and mobile devices.
+-Responsive Design: Fully optimized for desktops, tablets, and mobile devices.
 
 🛠️ Tech Stack
-Frontend: HTML5, CSS3, JavaScript
+-Frontend: HTML5, CSS3, JavaScript
 
-Design: Responsive layout using media queries
+-Design: Responsive layout using media queries
 
-Version Control: Git and GitHub
+-Version Control: Git and GitHub
 
-Deployment: GitHub Pages
+-Deployment: GitHub Pages
 
 📂 File Structure
-bash
-Copy
-Edit
+
 /portfolio-website
 │
 ├── index.html          # Main HTML file
@@ -54,9 +52,6 @@ Edit
 📝 How to Run
 Clone the repository:
 
-bash
-Copy
-Edit
 git clone https://github.com/your-username/portfolio-website.git
 Open index.html in any browser.
 
