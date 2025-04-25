@@ -1,28 +1,72 @@
-# Portfolio Website - Revathi
+📌 Project Overview
+This project is a personal portfolio website designed to serve as an online resume and showcase my technical skills, academic achievements, and projects. Built using standard web development technologies, this website is fully responsive, visually engaging, and informative.
 
-## 🌟 Task Objective
+It was developed as part of an internship task submission to demonstrate my ability to build functional and user-friendly web applications.
 
-This project is a **professional portfolio website** created as part of a task submission. It showcases my personal profile, technical skills, academic projects, and provides a contact form for communication. It is designed to be responsive and user-friendly, serving as an online resume.
+🎯 Objectives
+Provide a centralized platform to highlight my academic and technical background.
 
----
+Share key projects and achievements with potential employers or collaborators.
 
-## 🛠️ Tech Stack Used
+Include interactive features like a contact form and live project links.
 
-- HTML5
-- CSS3
-- JavaScript
+Practice clean HTML/CSS/JS code with responsive design principles.
 
----
+✨ Features
+About Section: A brief introduction including background, internship experience, and interests.
 
-## 📋 Features
+Skills Section: Lists both technical skills (languages, tools) and soft skills (communication, teamwork).
 
-- **About Section** – A short introduction about myself and my background.
-- **Skills Section** – A list of both technical and non-technical skills.
-- **Projects Section** – Highlights of major academic and personal projects.
-- **Contact Form** – A simple form where users can send a message.
-- **Responsive Design** – Mobile-friendly layout for a smooth user experience across devices.
+Projects Section: Showcases top projects including:
 
----
+Sign Language Recognition using Machine Learning
 
-## 📁 Project Structure
+Epileptic Seizure Prediction
 
+Financial Literacy Portal
+
+Online Job Portal using AI
+
+Contact Form: Visitors can send messages through an email-style form.
+
+Responsive Design: Fully optimized for desktops, tablets, and mobile devices.
+
+🛠️ Tech Stack
+Frontend: HTML5, CSS3, JavaScript
+
+Design: Responsive layout using media queries
+
+Version Control: Git and GitHub
+
+Deployment: GitHub Pages
+
+📂 File Structure
+bash
+Copy
+Edit
+/portfolio-website
+│
+├── index.html          # Main HTML file
+├── style.css           # Custom styling
+├── script.js           # Optional JS for interactivity
+├── images/             # Folder containing profile photo and icons
+└── README.md           # Project documentation
+📝 How to Run
+Clone the repository:
+
+bash
+Copy
+Edit
+git clone https://github.com/your-username/portfolio-website.git
+Open index.html in any browser.
+
+You can also host it live using GitHub Pages as shown in the steps above.
+
+📈 Future Enhancements
+Add a downloadable resume (PDF).
+
+Include animated transitions for sections.
+
+Integrate form submission using email services like EmailJS.
+
+Add blog or certifications section.
